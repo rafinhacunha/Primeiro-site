@@ -1,1 +1,2 @@
-Esse projeto com HTML e CSS foi minha primeira experiência utilizando dessas linguagens, portanto decidi criar uma biografia do jogador Neymar Junior, por ser um jogador que eu gosto bastante.
+## Primeira experiência com HTML e CSS
+Meu primeiro site utilizando HTML e CSS! Sem muita ideia do que desenvolver, optei por criar uma biografia do jogador de futebol Neymar Júnior. O projeto é simples, com uma estrutura básica e ajustes iniciais utilizando as tags mais comuns de HTML e CSS.
